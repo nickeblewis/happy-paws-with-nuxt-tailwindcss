@@ -1,8 +1,8 @@
 <script setup lang="ts">
   import { heroImageUrl } from '@/utils/hero'
 
-  const heroCaption = 'Adopt A Pet'
-  const heroTitle = 'Thousands of homeless dogs, one act of kindness'
+  const heroCaption = 'Adopt A Synth'
+  const heroTitle = 'Thousands of homeless modules, one act of kindness'
   const heroDescription =
     'Find your new furry friend today! We have a wide variety of lovable pets available for adoption. Come visit us and take home your new best friend!'
 </script>
@@ -18,10 +18,10 @@
               <h4
                 class="font-bold font-serif mb-1 text-primary-600 dark:text-primary-200 uppercase"
               >
-                Adopt A Pet
+                Explore the world of sound
               </h4>
               <h1 class="capitalize leading-tight mb-2 text-white">
-                Thousands of homeless dogs, one act of kindness
+                Thousands of AUv3 Modules, researched and explored
               </h1>
               <p class="font-thin mb-6 text-gray-300">
                 Find your new furry friend today! We have a wide variety of

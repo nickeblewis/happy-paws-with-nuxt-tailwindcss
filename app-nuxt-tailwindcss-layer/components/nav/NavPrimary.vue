@@ -33,7 +33,7 @@
       size="xl"
       color="secondary"
     >
-      <span class="pl-2">Try Now</span>
+      <span class="pl-2">Subscribe Now</span>
       <template #trailing>
         <BaseIcon name="i-mdi-pine-tree" height="24px" />
       </template>

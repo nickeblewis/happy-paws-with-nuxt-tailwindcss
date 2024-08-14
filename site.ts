@@ -3,8 +3,8 @@
 // @unocss-include
 
 export default {
-  name: 'Happy Paws',
-  description: 'Adopt Your Fur Mate',
+  name: 'Nick Lewis',
+  description: 'Creative Music/Photography/Code',
   logo: 'i-noto:cat-face',
   author: 'Pinegrow',
   url: 'https://happy-paws-with-nuxt-tailwindcss.netlify.app',
@@ -13,14 +13,14 @@ export default {
   identity: {
     type: 'Organization',
   } as any,
-  twitter: '@vuedesigner',
+  twitter: '@nicklewis',
   trailingSlash: false, // default
   titleSeparator: '|', // default
   nav: [
     { text: 'Home', link: '/', type: 'primary', icon: 'i-mdi-home' },
-    { text: 'Adopt Now', link: '/adopt', type: 'primary', icon: 'i-mdi-home' },
+    { text: 'Gallery', link: '/adopt', type: 'primary', icon: 'i-mdi-home' },
     {
-      text: 'Donate',
+      text: 'Get Started',
       link: '/quick-start',
       type: 'secondary',
       icon: 'i-mdi-home',
@@ -33,7 +33,7 @@ export default {
     },
     { text: 'Blog', link: '/blog', type: 'secondary', icon: 'i-mdi-home' },
     {
-      text: 'Volunteer',
+      text: 'Subscribe',
       link: '/volunteer',
       type: 'secondary',
       icon: 'i-mdi-home',
